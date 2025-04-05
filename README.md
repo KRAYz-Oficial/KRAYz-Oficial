@@ -22,7 +22,7 @@
 
 ## 🔗 Socials & Projects
 
-  <a href="https://instagram.com/seu_instagram">
+  <a href="https://instagram.com/@krayz.dev">
     <img src="https://img.shields.io/badge/@krayz.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://github.com/KRAYz-Oficial">
