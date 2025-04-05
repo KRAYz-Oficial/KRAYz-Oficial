@@ -5,7 +5,7 @@
 ## ⚡ About Me ⚡
 
 🎮 Full Stack Developer with RGB blood running through my veins  
-⚛️ React | 🚀 Node.js | 🐳 Docker | 🔥 Firebase  
+⚛️ React | 🚀 Node.js | 🔥 Front-End | ❄️Back-End 
 💻 Code is life, setup is art  
 🧠 Always evolving
 
