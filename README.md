@@ -2,15 +2,15 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmI1NnJwcjB4eDY2NWl2NGFpdGd5cXNzZGI4eXFoaXkyMDBtMG00eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J7CXWAjo5PdhI4LWPX/giphy.gif" width="800" height="80">
 </h1>
 
-## ⚡ About Me ⚡
+## 📍 About Me
   
-⚛️ React | 🚀 Node.js | 🔥 Front-End | ❄️Back-End 
+🗃️ React | 🚀 Node.js | 🔥 Front-End | ❄️Back-End 
 💻 Code is life, setup is art  
 🧠 Always evolving
 
 ---
 
-## 🧨 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KRAYz-Oficial&theme=chartreuse-dark&hide_border=true" />
