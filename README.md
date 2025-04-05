@@ -7,7 +7,7 @@
 🎮 Full Stack Developer with RGB blood running through my veins  
 ⚛️ React | 🚀 Node.js | 🐳 Docker | 🔥 Firebase  
 💻 Code is life, setup is art  
-🧠 Always evolving, always glowing neon
+🧠 Always evolving
 
 ---
 
