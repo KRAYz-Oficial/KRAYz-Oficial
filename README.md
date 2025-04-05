@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGUwbTgzZHdrcGdrbWxlZGRyemRweDRpMnhucWRscTV2M2I0dXJpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZ0J8rGKPTidH0UJul/giphy.gif" 
        alt="Animated GIF" 
-       style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+       style="max-width: 1000px; height: auto; display: block; margin: 0 auto;">
 </h1>
 
 # 💫 About Me:
@@ -43,11 +43,11 @@
 </p>
 
 # 📊 GitHub Stats:
-<p align="center">
+<p align="center" >
   <img src="https://nirzak-streak-stats.vercel.app/?user=KRAYz-Oficial&theme=github_dark&hide_border=false" alt="GitHub Stats" style="max-width: 100%; height: auto;">
 </p>
 
 ### ✍️ Random Dev Quote
-<p align="center">
+<p align="center height:auto; display:block; margin:0 auto;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" style="max-width: 100%; height: auto;">
 </p>
