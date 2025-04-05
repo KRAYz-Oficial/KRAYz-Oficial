@@ -17,4 +17,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-Generate a [gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/<KRAYz-Oficial>/<KRAYz-Oficial>/blob/output/github-contribution-grid-snake2.svg)
