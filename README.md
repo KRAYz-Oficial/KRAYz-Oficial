@@ -17,4 +17,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![snake animation](https://github.com/KRAYz-Oficial/KRAYz-Oficial/tree/main/.github/workflows/<KRAYz-Oficial>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/KRAYz-Oficial/KRAYz-Oficial/tree/main/.github/workflows/main.yml)
